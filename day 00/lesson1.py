@@ -5,7 +5,7 @@ from turtle import *
 
 #step 1: draw a square
 shape("turtle")
-speed(30)
+speed(2)
 width(7)
 color("purple")
 forward(200)
@@ -45,7 +45,7 @@ forward(200)
 end_fill()
 
 #we want to paint a windous
-speed(30)
+speed(2)
 color("brown")
 left(120)
 forward(60)

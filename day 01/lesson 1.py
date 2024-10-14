@@ -6,7 +6,7 @@ name = "saba"
 
 surname = "lomsadze"
 
-#print(name)
+#print(name)0
 #print ფუნქციას გადაეცემა ეკრანზე გამოსატანი ცვლადი ან სტრინგი
 
 
@@ -30,5 +30,5 @@ print(name + " " + surname)
 #print(type(height))
 #print(type(knows_programming))
 
-print("მე ვარ " + name + ", ვარ " + str(age) + " წლის " + ", ჩემი გვარია " + str(surname) + ", ჩემი სიმაღლეა " + str(height) )
+print("მე ვარ " + name + ", ვარ " + str(age) + " წლის " + ", ჩემი გვარია " + str(surname) + ", ჩემი სიმაღლეა " + str(height) + " "  "სანტიმეტრი " )
 
