@@ -42,3 +42,38 @@ print(9891 - 6795)
 
 print(651 - 147)
 
+
+print(" ")
+
+
+
+
+print(68 / 2)
+print(33 / 3)
+print(56 / 4)
+print(345 / 5)
+print(250 / 25)
+print(63 / 3)
+print(66 / 6)
+print(981 / 9)
+print(864 / 2)
+print(789 / 3)
+
+
+print(" ")
+
+
+print(43 * 2)
+print(8 * 11)
+print(91 * 32)
+print(32 * 12)
+print(21 * 22)
+print(56 * 9)
+print(65 * 19)
+print(13 * 16)
+print(72 * 42)
+print(15 * 25)
+print(46 * 4)
+
+
+
